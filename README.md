@@ -19,5 +19,4 @@ Data explainer project for CS 448B.
 
 ## Authors
 
-[Jeong Shin](https://github.com/jshinnn)
-L'Nard Tufts
+[Jeong Shin](https://github.com/jshinnn) & L'Nard Tufts
