@@ -1,0 +1,43 @@
+gender,genre_code,genre_name,average_score,review_count
+male,animation,Animation,0.30673234243014946,6156
+female,animation,Animation,0.3622099935938501,1561
+male,cult,Cult,0.06785482352941176,425
+female,cult,Cult,0.1846095238095238,42
+male,action,Action & Adventure,0.16647329302816563,41682
+female,action,Action & Adventure,0.21030884821636744,8578
+male,romance,Romance,0.2801330974064542,20204
+female,romance,Romance,0.31280215013202567,5302
+male,faith,Faith & Spirituality,0.2097281395348837,430
+female,faith,Faith & Spirituality,0.1938974683544304,79
+male,musical,Musical & Performing Arts,0.2779465944676409,7664
+female,musical,Musical & Performing Arts,0.3217348320693391,1846
+male,queer,Queer,0.3514444444444444,252
+female,queer,Queer,0.40692463768115944,69
+male,television,Television,0.26079636363636366,1155
+female,television,Television,0.22837819548872182,266
+male,horror,Horror,0.01576005479452055,14600
+female,horror,Horror,0.03586997742663657,2658
+male,classics,Classics,0.24803583877995644,8262
+female,classics,Classics,0.2782147663551402,1070
+male,comedy,Comedy,0.2577437874939199,55509
+female,comedy,Comedy,0.28506201195660197,13549
+male,fitness,Fitness,0.2866222880853586,1687
+female,fitness,Fitness,0.27882763157894735,380
+male,family,Kids & Family,0.26602709779805594,10082
+female,family,Kids & Family,0.3196851336506774,2731
+male,documentary,Documentary,0.2099643797157396,11398
+female,documentary,Documentary,0.221891689373297,2936
+male,special,Special Interest,0.17952922139471902,7385
+female,special,Special Interest,0.18302628666297732,1807
+male,art,Art House & International,0.18908578056590214,15303
+female,art,Art House & International,0.2140464232710003,3369
+male,mystery,Mystery,0.10380608915619112,38741
+female,mystery,Mystery,0.12378600277672598,7923
+male,anime,Anime & Manga,0.30218666666666666,30
+female,anime,Anime & Manga,0.2076,9
+male,scifi,Science Fiction & Fantasy,0.2083387008353637,22984
+female,scifi,Science Fiction & Fantasy,0.2634080263668088,5158
+male,western,Western,0.16992507568113016,1982
+female,western,Western,0.14652298507462685,335
+male,drama,Drama,0.19293340968890266,96915
+female,drama,Drama,0.21626052016889769,22262
