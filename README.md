@@ -1,4 +1,4 @@
-# Project Title
+# Rotten Tomatoes Explainer
 
 Data explainer project for CS 448B.
 
@@ -16,6 +16,12 @@ Data explainer project for CS 448B.
 - gender
 
 `raw_data` holds source data. 
+
+`small_multiples` holds data and data wrangling tools for the first visualization.
+
+`seniment_score_by_year` holds data and data wrangling tools for the second visualization.
+
+`sentiment_gender_analysis` holds data and data wrangling tools for the last visualization. 
 
 ## Authors
 
